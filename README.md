@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/kcredd-y/social-proof-section-master](https://your-solution-url.com)
-- Live Site URL: [https://kcredd-y.github.io/social-proof-section-master/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kcredd-y/social-proof-section-master]
+- Live Site URL: [https://kcredd-y.github.io/social-proof-section-master/]
 
 ### Built with
 
